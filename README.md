@@ -1,4 +1,4 @@
-### Data Engineering Project on simulated Real-Time Covid Data using Kafka
+### Project on simulated Real-Time Covid Data using Kafka
 
 #### Tech stack: 
 * Python 
