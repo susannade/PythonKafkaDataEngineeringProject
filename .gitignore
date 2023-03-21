@@ -1,0 +1,6 @@
+/data
+/configuration.py
+.idea
+*.txt
+*.pem
+/venv
